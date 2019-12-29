@@ -1,0 +1,5 @@
+errorcode:1001
+
+time:2019-12-29-21:45:04
+
+raise : HTTPSConnectionPool(host='store.steampowered.com', port=443): Read timed out. (read timeout=30)
